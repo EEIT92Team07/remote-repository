@@ -48,6 +48,7 @@
                 </button>
                 <a class="navbar-brand page-scroll" href="#page-top">South Border</a>
             </div>
+            
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -113,13 +114,13 @@
                     <p class="text-muted">客製化旅遊行程</p></a>
                 </div>
                 <div class="col-md-4">
-                <a href="<c:url value="/pages/test.jsp" />">
+                <a href="<c:url value="/lightbox.jsp" />">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-laptop fa-stack-1x fa-inverse"></i></a>  
                     </span>
                     <h4 class="service-heading">周邊景點</h4>
-                    <a href="<c:url value="/pages/test.jsp" />">
+                    <a href="<c:url value="/lightbox.jsp" />">
                     <p class="text-muted">特色美食、當地景點、好玩行程</p></a>
                 </div>
 <!--                 <div class="col-md-4"> -->
